@@ -1,9 +1,8 @@
-howtorecoverdeletedfiles
-========================
+
 The usage of sd card has brought much convenience to our life. However, it also enlarge the risk that being deleted or formatted by multiple reasons, such as unintentional deletion or formation, virus or spyware infection, sudden power failure during transfer. If you encounter with such situation, do not feel annoyed or panic as Android SD Card Recovery Pro will help you <a href="http://www.windows8downloads.com/win8-android-sd-card-recovery-pro-ezjuegam/"target="_blank">recover deleted files</a> from sd card.<br /><br />
 <a href="http://www.lionsea.com/download/cardrecoverypro/Android_SD_Card_Recovery_Pro_Setup.exe"target="_blank"><img src="http://c.lionsea.net//halenjane/image/download_03.png" /></a><br /><br />
 About Android SD Card Recovery Pro:<br /><br />
-Android SD Card Recovery Pro is a powerful <a href="https://github.com/cardrecovery/sdcardrecovery"target="_blank">sd card recovery</a> tool that can recover data and files easily from all Windows OS. This powerful and sophisticated software can vigorously scan both internal and external phone memories of the device to recognize the lost android data including the android application package file and recover them in a safe location which can be reused simply. It is the partner of Microsoft and Intel as well as has been approved by Norton and McAfee Secure that will bring no harm to your computer.<br /><br />
+Android SD Card Recovery Pro is a powerful <a href="http://android-sd-card-recovery-pro.soft112.com/"target="_blank">sd card recovery</a> tool that can recover data and files easily from all Windows OS. This powerful and sophisticated software can vigorously scan both internal and external phone memories of the device to recognize the lost android data including the android application package file and recover them in a safe location which can be reused simply. It is the partner of Microsoft and Intel as well as has been approved by Norton and McAfee Secure that will bring no harm to your computer.<br /><br />
 
 Compared with other brands of software, it shares more advantages:<br /><br />
 <li>All cards: SD , XD, Micro...</li><br />
